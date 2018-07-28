@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\MessagePassingCommService.dll.config
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\MessagePassingCommService.dll
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\BlockingQueue.dll
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.dll
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\BlockingQueue.pdb
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\BlockingQueue.dll.config
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.dll.config
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.dll
+C:\Users\Administrator\Desktop\681\project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb

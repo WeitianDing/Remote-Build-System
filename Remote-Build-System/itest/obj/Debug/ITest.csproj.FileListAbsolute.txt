@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\681\project4\ITest\obj\Debug\ITest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\681\project4\ITest\bin\Debug\ITest.dll.config
+C:\Users\Administrator\Desktop\681\project4\ITest\bin\Debug\ITest.dll
+C:\Users\Administrator\Desktop\681\project4\ITest\bin\Debug\ITest.pdb
+C:\Users\Administrator\Desktop\681\project4\ITest\obj\Debug\ITest.dll
+C:\Users\Administrator\Desktop\681\project4\ITest\obj\Debug\ITest.pdb

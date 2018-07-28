@@ -1,0 +1,10 @@
+'csc' is not recognized as an internal or external command,
+operable program or batch file.
+
+ion. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+stDriver_1.cs(22,17): error CS1061: “TestBuild.TestedTwo_1”不包含“sayTwo_1”的定义，并且找不到可接受类型为“TestBuild.TestedTwo_1”的第一个参数的扩展方法“sayTwo_1”(是否缺少 using 指令或程序集引用?)
+

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\681\project4\BlockingQueue\obj\Debug\BlockingQueue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\681\project4\BlockingQueue\bin\Debug\BlockingQueue.dll.config
+C:\Users\Administrator\Desktop\681\project4\BlockingQueue\bin\Debug\BlockingQueue.dll
+C:\Users\Administrator\Desktop\681\project4\BlockingQueue\bin\Debug\BlockingQueue.pdb
+C:\Users\Administrator\Desktop\681\project4\BlockingQueue\obj\Debug\BlockingQueue.dll
+C:\Users\Administrator\Desktop\681\project4\BlockingQueue\obj\Debug\BlockingQueue.pdb

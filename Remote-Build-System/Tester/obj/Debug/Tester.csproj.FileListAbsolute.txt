@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\681\project4\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\681\project4\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\Tester.exe.config
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\Tester.exe
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\Tester.pdb
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\ITest.dll
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\Loader.dll
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\ITest.pdb
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\ITest.dll.config
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\Loader.pdb
+C:\Users\Administrator\Desktop\681\project4\Tester\bin\Debug\Loader.dll.config
+C:\Users\Administrator\Desktop\681\project4\Tester\obj\Debug\Tester.exe
+C:\Users\Administrator\Desktop\681\project4\Tester\obj\Debug\Tester.pdb

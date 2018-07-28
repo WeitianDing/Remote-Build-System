@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\681\project4\Loader\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\681\project4\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\681\project4\Loader\bin\Debug\Loader.dll.config
+C:\Users\Administrator\Desktop\681\project4\Loader\bin\Debug\Loader.dll
+C:\Users\Administrator\Desktop\681\project4\Loader\bin\Debug\Loader.pdb
+C:\Users\Administrator\Desktop\681\project4\Loader\bin\Debug\ITest.dll
+C:\Users\Administrator\Desktop\681\project4\Loader\bin\Debug\ITest.pdb
+C:\Users\Administrator\Desktop\681\project4\Loader\bin\Debug\ITest.dll.config
+C:\Users\Administrator\Desktop\681\project4\Loader\obj\Debug\Loader.dll
+C:\Users\Administrator\Desktop\681\project4\Loader\obj\Debug\Loader.pdb

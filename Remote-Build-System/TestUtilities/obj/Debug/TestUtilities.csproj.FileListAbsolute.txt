@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\bin\Debug\TestUtilities.exe.config
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\bin\Debug\TestUtilities.exe
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\bin\Debug\IMessagePassingCommService.dll
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\bin\Debug\IMessagePassingCommService.dll.config
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\obj\Debug\TestUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\obj\Debug\TestUtilities.exe
+C:\Users\Administrator\Desktop\681\project4\TestUtilities\obj\Debug\TestUtilities.pdb

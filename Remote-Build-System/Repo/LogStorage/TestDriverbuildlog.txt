@@ -1,0 +1,8 @@
+'csc' is not recognized as an internal or external command,
+operable program or batch file.
+
+ion. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
